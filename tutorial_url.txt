@@ -1,2 +1,5 @@
 https://thinkster.io/mean-stack-tutorial/
-file:///home/eric/code/rocky_news/index.html#/home
+http://localhost:3000/#/home <- new url
+
+ran into issues installing mongo tonight
+todo tomorrow: finish the mongoose backend section and 'Wiring It All Up'; skip the authentication and user stuff until after finished with the textbooks that are coming in tomorrow. May come back to it eventually, but having a simple running webapp is good enough for my purposes.
